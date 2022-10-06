@@ -1,4 +1,6 @@
 # Fake_Identity_generator
+This python script was created to create a fake identity generator for Indian names and fake identities which could be used for Indian sock puppet accounts
+
 Test date 1 on line 8 can be edited to change the mininum date of birth and test date 2 can be edited to change the maximum date of birth
 
 Male name on line 35 can be appended to increase variablity of male names and female name on line 36 can be appened to increase variablity of female names
